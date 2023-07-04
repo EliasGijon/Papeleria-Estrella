@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/Papeleria-Estrella.jar"/>
+	<classpathentry kind="lib" path="libraries/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="libraries/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="libraries/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="libraries/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
